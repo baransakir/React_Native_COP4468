@@ -1,6 +1,4 @@
-# react_native_COP4468
-
-COP4468 Course Project - React Native
+# COP4468 Course Project - React Native
 
 Student Name: Baran Şakir
 Student ID: 1902547
