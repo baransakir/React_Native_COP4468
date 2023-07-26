@@ -1,7 +1,4 @@
-# COP4468 Course Project - React Native
-
-Student Name: Baran Şakir
-Student ID: 1902547
+# React Native COP4468
 
 * Flex design is used as a UI design pattern.
 * React-Navigation library is used for handle routing.
